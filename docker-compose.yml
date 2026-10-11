@@ -1,0 +1,14 @@
+services:
+  risk-engine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nitkkr_risk_engine_app
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+      - STREAMLIT_SERVER_HEADLESS=true
+      - STREAMLIT_SERVER_ENABLE_CORS=false
+      - STREAMLIT_SERVER_ENABLE_XSRF_PROTECTION=false
