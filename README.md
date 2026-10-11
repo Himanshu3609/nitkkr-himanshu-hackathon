@@ -4,7 +4,9 @@
 **College Email ID:** 124110002@nitkkr.ac.in  
 **Personal Email ID:** himanshu36098@gmail.com
 **College / Campus:** National Institute of Technology, Kurukshetra (NIT Kurukshetra)  
-**Demo Video Link:** [YouTube / Unlisted Video Link]  
+**Demo Video Link:** https://www.youtube.com/watch?v=8VLR7pdf6Yc
+
+
 **Presentation Link :** https://docs.google.com/presentation/d/1Y5Zhcb_82sXjnzzEK0fBMD2prd8ZiHlG/edit?usp=sharing&ouid=116194640862893448712&rtpof=true&sd=true  
 
 ---
