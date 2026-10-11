@@ -5,7 +5,7 @@
 **Personal Email ID:** himanshu36098@gmail.com
 **College / Campus:** National Institute of Technology, Kurukshetra (NIT Kurukshetra)  
 **Demo Video Link:** [YouTube / Unlisted Video Link]  
-**Slide Deck Link :** [Google Slides / docs/presentation.pdf]  
+**Slide Deck Link :** https://docs.google.com/presentation/d/1Y5Zhcb_82sXjnzzEK0fBMD2prd8ZiHlG/edit?usp=sharing&ouid=116194640862893448712&rtpof=true&sd=true  
 
 ---
 
